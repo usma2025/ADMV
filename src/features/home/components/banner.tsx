@@ -10,35 +10,35 @@ const slides = [
     description:
       "Nuestra banda sonora especial, canciones que cuentan nuestra historia",
     bgImage: "/img/music-bg.jpg",
-    path: "/canciones",
+    path: "/Aleja/canciones",
   },
   {
     id: 2,
     title: "Galería",
     description: "Capturas de momentos que atesoramos para siempre",
     bgImage: "/img/gallery-bg.jpeg",
-    path: "/galeria",
+    path: "/Aleja/galeria",
   },
   {
     id: 3,
     title: "Notas",
     description: "Palabras y pensamientos que guardo para ti",
     bgImage: "/img/notes-bg.webp",
-    path: "/notas",
+    path: "/Aleja/notas",
   },
   {
     id: 4,
     title: "She",
     description: "El mundo a través de tus ojos, mi persona favorita",
     bgImage: "/img/she-bg.jpeg",
-    path: "/she",
+    path: "/Aleja/she",
   },
   {
     id: 5,
     title: "Nuestro Proyecto",
     description: "Cómo y por qué creé este espacio solo para ti",
     bgImage: "/img/LogoHeader.png",
-    path: "/about",
+    path: "/Aleja/about",
   },
 ];
 
